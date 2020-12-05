@@ -9,4 +9,6 @@ The main conclusion was that the title of the book tells us a lot more about the
 
 Xcetion+Glove1 jupyter notebook has the necessary code. Many features were extracted using on the fly code and saved into pickle files, which are being imported in the given jupyer notebook. Since some of these saved pickle files are pre-trained GloVe vectors, they are around 250 MB, which exceed GitHub's requirment that each file be less than 25 MB. Because of this, we are not able to provide them right now.
 
+The dataset for the book covers was obtained from :https://github.com/uchidalab/book-dataset
+
 Main collaborators for this project were: [Ganesh Biradar](https://github.com/biradarganesh25), [Aravind Varier](https://github.com/aravindvarier)
